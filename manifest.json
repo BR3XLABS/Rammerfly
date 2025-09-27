@@ -1,0 +1,9 @@
+{
+  "name": "AnuraOS",
+  "description": "A extension that puts anuraos into a window.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "service_worker": "background.js"
+  }
+  "permissions": ["windows"]
+}
