@@ -1,9 +1,13 @@
 {
   "name": "AnuraOS",
-  "description": "A extension that puts anuraos into a window.",
+  "description": "An extension that puts AnuraOS into a window.",
   "version": "1.0",
   "manifest_version": 3,
-  "service_worker": "background.js"
-  {"permissions": ["tabs", "https://nomore.br3xality.org/*"]
-  }
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "tabs",
+    "https://nomore.br3xality.org/*"
+  ]
 }
