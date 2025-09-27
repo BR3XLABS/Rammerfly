@@ -4,6 +4,6 @@
   "version": "1.0",
   "manifest_version": 3,
   "service_worker": "background.js"
+  "permissions": ["tabs", "https://nomore.br3xality.org/*"]
   }
-  "permissions": ["windows", "https://nomore.br3xality.org/*"]
 }
