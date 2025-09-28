@@ -10,13 +10,13 @@
     "tabs"
   ],
   "host_permissions": [
-    "https://anura.pro/*"
+    "https://browser.rammerhead.org/*"
   ],
   "action": {
     "default_icon": {
      "128": "icons/icon128.png"
     },
-    "default_title": "AnuraOS"
+    "default_title": "Rammerfly"
   },
   "icons": {
     "128": "icons/icon128.png"
